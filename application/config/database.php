@@ -75,9 +75,9 @@ $query_builder = TRUE;
 //mysql.esperanzaehhs.com
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql.esperanzaehhs.com',
-	'username' => 'rojeda',
-	'password' => 'Ray130865',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
 	'database' => 'ehhs',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
